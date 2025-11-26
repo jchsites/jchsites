@@ -2,9 +2,9 @@
 
 Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentária e desenvolvimento de sistemas web**, unindo:
 
-- 🧠 **Experiência funcional** em gestão pública (orçamento, PAC, DAQ, DNIT etc.)
+- 🧠 **Experiência funcional** em gestão pública (Orçamento Público, PAC, Infraestrutura de Transportes, DNIT etc.)
 - 🖥️ **Desenvolvimento web** em PHP, MySQL, HTML, CSS, JS
-- ⚙️ **Automação de rotinas** e integração entre planilhas, sistemas e painéis
+- ⚙️ **Automação de rotinas** e integração entre planilhas, sistemas e painéis BI
 
 ---
 
@@ -32,7 +32,7 @@ Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentári
 - 🛶 **MONITORA DAQ** – sistema web para monitoramento de empreendimentos da DAQ  
   `PHP + MySQL + Bootstrap + deploy automático via Git`
 
-- 🧮 **Painel de Gestão Orçamentária / Atlas** – tela unificada para PLOA, execução, farol de investimentos
+- 🧮 **Painel de Gestão Orçamentária** – tela unificada para PLOA, execução, farol de investimentos
 
 - 🌐 **Sites institucionais e educacionais** – múltiplos domínios em um único VPS, integração com cursos e painéis.
 
@@ -41,5 +41,5 @@ Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentári
 ## ✉️ Contato
 
 - 📧 **E-mail:** jchsites@gmail.com  
-- 🌍 **Principais domínios:** atlasgoinfra.com.br, egpdaq.com.br, monitoradaq.eng.br, paeenfoco2025.org, vidadigitalti.com.br
+- 🌍 **Principais domínios:** monitoradaq.eng.br, paeenfoco2025.org, vidadigitalti.com.br
 
