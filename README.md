@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o André (JCH Sites)
+# Olá, eu sou o André (JCH Sites)
 
 Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentária e desenvolvimento de sistemas web**, unindo:
 
@@ -8,7 +8,7 @@ Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentári
 
 ---
 
-## 🧩 Áreas em que atuo
+## Áreas em que atuo
 
 - **Sistemas de monitoramento e gestão** (obras, empreendimentos, orçamento)
 - **Dashboards e indicadores** (PHP, MySQL, Power BI)
@@ -18,7 +18,7 @@ Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentári
 
 ---
 
-## 🔧 Tecnologias
+## Tecnologias
 
 - **Backend:** PHP, MySQL/MariaDB
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
@@ -38,8 +38,8 @@ Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentári
 
 ---
 
-## ✉️ Contato
+## Contato
 
 - 📧 **E-mail:** jchsites@gmail.com  
-- 🌍 **Principais domínios:** monitoradaq.eng.br, paeenfoco2025.org, vidadigitalti.com.br
+- **Principais domínios:** monitoradaq.eng.br, paeenfoco2025.org, vidadigitalti.com.br
 
